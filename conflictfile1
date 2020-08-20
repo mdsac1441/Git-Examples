@@ -1,1 +1,4 @@
 conflictfile1 for check through merge
+
+this is conflictfile1 from branch1 with different content ,add content to resolve conflict
+>>>>>>> branch1
